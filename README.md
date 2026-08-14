@@ -1,2 +1,3 @@
 # task
-Simple tasks for JavaScript and Python assignments during the course. 
+
+课程期间的 `JavaScript` 和 `Python` 作业，任务比较简单。 
