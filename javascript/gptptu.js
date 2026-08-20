@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2025 darmawn (Aiyaas). All Rights Reserved.
+ * Copyright (c) 2025. All Rights Reserved.
  * (GPTPTU) Global processing text from the prompt on the user.
  *
  * @global
